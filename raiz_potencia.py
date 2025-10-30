@@ -1,4 +1,4 @@
-#Raiz/ Potencia 
+#Raiz/ Potencia  
 import math
 
 def raiz(numero):
